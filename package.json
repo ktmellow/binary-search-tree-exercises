@@ -1,0 +1,25 @@
+{
+  "name": "js-binary-tree-exercise",
+  "version": "1.0.0",
+  "main": "binary_tree.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "This assignment will require you to implement a binary tree with the following methods.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/binary-tree-js.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gSchool/binary-tree-js/issues"
+  },
+  "homepage": "https://github.com/gSchool/binary-tree-js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "locus": "^1.2.0",
+    "mocha": "^2.4.5"
+  }
+}
